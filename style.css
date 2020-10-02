@@ -1,0 +1,31 @@
+/*****Bangladesh-Flag*****/
+body {
+    background: #ffffff;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.rectangle {
+    width: 750px;
+    height: 450px;
+    background: green;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+}
+
+.circle {
+    width: 250px;
+    height: 250px;
+    background: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+    border-radius: 50%;
+}
